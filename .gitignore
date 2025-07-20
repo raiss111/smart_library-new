@@ -1,0 +1,12 @@
+/vendor/
+/node_modules/
+/.env
+.DS_Store
+*.log
+*.zip
+*.bak
+*.sql
+*.sqlite
+.idea/
+.vscode/
+*.tmp
